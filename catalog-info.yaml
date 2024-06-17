@@ -10,6 +10,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: erica-banda-03/ebanda-dev-liberty-sample-1
     janus-idp.io/tekton : ebanda-dev-liberty-sample-1
+    openliberty.io/app-kind: OpenLibertyApplication
   labels:
     backstage.io/kubernetes-id: ebanda-dev-liberty-sample-1
   tags:
