@@ -23,6 +23,5 @@
   <cors domain="/metrics"
     allowedOrigins="*"
     allowedMethods="GET"
-    allowCredentials="true"
     exposeHeaders="MyHeader"/>
 </server>
